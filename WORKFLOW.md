@@ -74,3 +74,4 @@ The deeper process fix is a **short-lived-branch policy with mandatory pre-push 
 ![Task 4](screenshots/task4.png)
 ![Task 5](screenshots/task5.png)
 ![Task 6](screenshots/task6.png)
+![Task 7](screenshots/task7.png)
