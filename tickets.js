@@ -3,7 +3,7 @@ function isValidQuantity(quantity) {
 }
 
 function calculateTicketPrice(quantity, basePrice) {
-  return Math.floor(quantity * basePrice);
+  return Math.round(quantity * basePrice);
 }
 
 module.exports = { isValidQuantity, calculateTicketPrice };
